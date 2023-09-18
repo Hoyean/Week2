@@ -1,0 +1,14 @@
+﻿  Day2.cpp
+C:\Users\YUHAN\source\repos\Week2\D2S1\Day2\Day2.cpp(18,5): error C3863: 배열 형식 'char [33]'은(는) 할당할 수 없습니다.
+C:\Users\YUHAN\source\repos\Week2\D2S1\Day2\Day2.cpp(19,10): warning C4477: 'printf' : 서식 문자열 '%c'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\YUHAN\source\repos\Week2\D2S1\Day2\Day2.cpp(19,10): warning C4313: 'printf': 서식 문자열의 '%c'이(가) 인수 1('char *' 형식)과(와) 충돌합니다.
+C:\Users\YUHAN\source\repos\Week2\D2S1\Day2\Day2.cpp(21,14): error C2446: '==': 'int'에서 'char [33]'(으)로 변환되지 않았습니다.
+C:\Users\YUHAN\source\repos\Week2\D2S1\Day2\Day2.cpp(21,12): message : 정수 계열 형식에서 포인터 형식으로 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Users\YUHAN\source\repos\Week2\D2S1\Day2\Day2.cpp(25,20): error C2446: '==': 'int'에서 'char [33]'(으)로 변환되지 않았습니다.
+C:\Users\YUHAN\source\repos\Week2\D2S1\Day2\Day2.cpp(25,17): message : 정수 계열 형식에서 포인터 형식으로 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Users\YUHAN\source\repos\Week2\D2S1\Day2\Day2.cpp(29,20): error C2446: '==': 'int'에서 'char [33]'(으)로 변환되지 않았습니다.
+C:\Users\YUHAN\source\repos\Week2\D2S1\Day2\Day2.cpp(29,17): message : 정수 계열 형식에서 포인터 형식으로 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Users\YUHAN\source\repos\Week2\D2S1\Day2\Day2.cpp(33,20): error C2446: '==': 'int'에서 'char [33]'(으)로 변환되지 않았습니다.
+C:\Users\YUHAN\source\repos\Week2\D2S1\Day2\Day2.cpp(33,17): message : 정수 계열 형식에서 포인터 형식으로 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Users\YUHAN\source\repos\Week2\D2S1\Day2\Day2.cpp(37,20): error C2446: '==': 'int'에서 'char [33]'(으)로 변환되지 않았습니다.
+C:\Users\YUHAN\source\repos\Week2\D2S1\Day2\Day2.cpp(37,17): message : 정수 계열 형식에서 포인터 형식으로 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
